@@ -1,0 +1,5 @@
+NAME: ShapeNetGaussian
+DATA_PATH: "./datasets/shapenet_split/"
+GS_PATH: "./datasets/shapesplat_ply/02954340/"
+N_POINTS: 1024
+ATTRIBUTE: ['xyz','opacity','scale','rotation','sh']
